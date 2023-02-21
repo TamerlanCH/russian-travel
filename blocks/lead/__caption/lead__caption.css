@@ -11,7 +11,7 @@
   color: #fff;
 }
 
-@media (max-width: 1024px) {
+@media (max-width: 930px) {
   .lead__caption {
     margin-left: 24px;
   }
